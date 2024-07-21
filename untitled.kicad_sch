@@ -2737,6 +2737,15 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "TJA1051TK-3"
+			(at 154.94 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a04286be-41c0-43ce-ba0e-f0807ac43a47")
 		)
@@ -3185,6 +3194,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 156.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "TJA1051TK-3"
 			(at 156.21 77.47 0)
 			(effects
 				(font

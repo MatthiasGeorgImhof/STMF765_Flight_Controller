@@ -3396,7 +3396,7 @@
 		(fields_autoplaced yes)
 		(uuid "29121231-5615-4338-85bd-0d13814da3af")
 		(property "Reference" "R17"
-			(at 134.62 172.72 0)
+			(at 134.62 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3404,8 +3404,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 134.62 175.26 0)
+		(property "Value" "1k2"
+			(at 134.62 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4334,7 +4334,7 @@
 		(fields_autoplaced yes)
 		(uuid "6300d726-4c15-4bf9-83c9-2e060e7018cd")
 		(property "Reference" "R18"
-			(at 153.67 172.72 0)
+			(at 153.67 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,8 +4342,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k2"
-			(at 153.67 175.26 0)
+		(property "Value" "680"
+			(at 153.67 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4396,7 +4396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-07560RL"
+		(property "Part Number" "RC0402FR-07680RL"
 			(at 151.13 173.99 0)
 			(effects
 				(font
@@ -4834,7 +4834,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b70556c-4822-4f71-ab8a-08f67661c74a")
 		(property "Reference" "R15"
-			(at 87.63 172.72 0)
+			(at 87.63 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4842,8 +4842,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 87.63 175.26 0)
+		(property "Value" "1k5"
+			(at 87.63 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7009,7 +7009,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee4ec4f9-33dd-472d-8710-7bbaeae55180")
 		(property "Reference" "R16"
-			(at 63.5 172.72 0)
+			(at 63.5 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7017,8 +7017,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 63.5 175.26 0)
+		(property "Value" "1k5"
+			(at 63.5 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)

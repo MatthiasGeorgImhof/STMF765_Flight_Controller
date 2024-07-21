@@ -3507,11 +3507,11 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1eed7013-9a33-4816-8fb9-c745adbb091b")
 		(property "Reference" "R22"
-			(at 121.92 149.86 0)
+			(at 121.92 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3519,8 +3519,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 121.92 152.4 0)
+		(property "Value" "10M"
+			(at 121.92 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3582,7 +3582,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0201FR-073K3L"
+		(property "Part Number" "RC0201JR-0710ML"
 			(at 119.38 151.13 0)
 			(effects
 				(font
@@ -4169,7 +4169,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k1"
+		(property "Value" "0"
 			(at 121.92 142.24 0)
 			(effects
 				(font
@@ -4232,7 +4232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0201FR-0722K1L"
+		(property "Part Number" "RC0402FR-070RL"
 			(at 119.38 140.97 0)
 			(effects
 				(font
@@ -5283,7 +5283,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "79a107db-293d-4d13-af01-ce8f8abe025b")
 		(property "Reference" "R24"
@@ -6025,7 +6025,7 @@
 		(fields_autoplaced yes)
 		(uuid "c73a7987-1430-4274-974b-1ed5cc6fd2ea")
 		(property "Reference" "R29"
-			(at 228.6 147.32 0)
+			(at 228.6 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6033,8 +6033,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k2"
-			(at 228.6 149.86 0)
+		(property "Value" "680"
+			(at 228.6 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6087,7 +6087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0402FR-071K5L"
+		(property "Part Number" "RC0402FR-07680RL"
 			(at 226.06 148.59 0)
 			(effects
 				(font
@@ -6452,7 +6452,7 @@
 		(fields_autoplaced yes)
 		(uuid "d79ff305-e0a2-43b3-b29b-3276b6ce8648")
 		(property "Reference" "R23"
-			(at 121.92 166.37 0)
+			(at 121.92 166.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6460,8 +6460,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3k3"
-			(at 121.92 168.91 0)
+		(property "Value" "0"
+			(at 121.92 168.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6514,7 +6514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0201FR-073K3L"
+		(property "Part Number" "RC0402FR-070RL"
 			(at 119.38 167.64 0)
 			(effects
 				(font
