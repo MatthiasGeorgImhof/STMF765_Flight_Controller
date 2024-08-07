@@ -2879,7 +2879,7 @@
 		(uuid "a0cb1215-5b46-4c37-973b-6cd2bb48938e")
 	)
 	(global_label "LED"
-		(shape output)
+		(shape input)
 		(at 218.44 137.16 180)
 		(fields_autoplaced yes)
 		(effects
@@ -6991,7 +6991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "YELLOW GPIO"
+		(property "Value" "ORANGE GPIO"
 			(at 228.6 140.97 90)
 			(effects
 				(font
